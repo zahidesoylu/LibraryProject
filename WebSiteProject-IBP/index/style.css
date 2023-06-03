@@ -1,0 +1,67 @@
+.navbar {
+    height: 80px; /* veya başka bir yükseklik değeri */
+    background-image: url("img/bg/indir.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: fixed;
+    background-opacity:50%;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+#notes{
+    background-color: lightgray;
+}
+
+.carousel-slide {
+}
+
+.carousel-inner img{
+
+    max-height: 600px;
+    max-width: 500px;
+    object-fit: cover;
+
+}
+
+#f1{
+    background-image: url("img/bg/indir.jpeg");
+    background-size: cover;
+    border-radius: 20px;
+    margin-right: 70px;
+
+}
+
+#f2{
+    background-image: url("img/bg/indir.jpeg");
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 70px;
+
+}
+
+
+#cards{
+    margin-top: 120px;
+    margin-bottom: 50px;
+    background-color:white ;
+
+}
+
+.card-body{
+    background-color: lightgray;
+    height: 200px;
+
+
+}
+
+#textbox{
+    background-color: lightgray ;
+    border-radius: 10px;
+
+}
+
